@@ -2,4 +2,5 @@
     width: 100%;
     text-align: center;
     color: black;
+    transition: all .8s ease-out;
 }

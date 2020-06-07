@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Expanded:wght@700&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -6,5 +8,5 @@ html, body, #root {
   padding: 0;
   margin: 0;
   height: 100%;
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
 }

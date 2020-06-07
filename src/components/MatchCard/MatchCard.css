@@ -10,10 +10,10 @@
     overflow: hidden;
     text-align: center;
     background: black;
-    justify-content: center;  
-    margin: 20px;   
+    justify-content: center;
+    margin: 20px;
 }
 
 .card>.img-container>img {
-    width: 150px;   
+    width: 150px;
 }
