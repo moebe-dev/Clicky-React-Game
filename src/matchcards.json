@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/andriod.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/apple.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/brave.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/FirefoxLogo.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/GoogleChrome.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/InternetExplorer.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/MicrosoftEdge.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/netscape.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/Opera.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/Tor.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/viv.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/Yandax.png",
+        "clicked": false
+    }
+]
